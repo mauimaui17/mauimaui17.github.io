@@ -1,1 +1,1 @@
-Hallo
+Without this, initial attempts to access the github page resulted in a 404 error.
