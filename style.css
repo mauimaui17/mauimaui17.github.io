@@ -1,0 +1,12 @@
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: aquamarine;
+}
+
+p {
+    text-indent: 1.5em;
+}
+
+.a {
+    font-size: larger;
+}
